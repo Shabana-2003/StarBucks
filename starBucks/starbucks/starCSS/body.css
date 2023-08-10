@@ -1,0 +1,369 @@
+body{
+    margin: 0;
+    font-family:SoDoSans_Semibold,Helvetica,sans-serif;
+    overflow-x: hidden;
+}
+hr{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 40px;
+}
+.column1{
+    float: left;
+    padding-top: 9px;
+    padding-left: 130px;
+    background-color: #1e3932;
+    border-radius: 0;
+    width: 100%;
+    height: 70px;
+}
+.column1-1{
+    float: left;
+    width: 75%;
+    
+}
+.text1{
+    font-family:SoDoSans_Semibold,Helvetica,sans-serif;
+    color: white;
+    font-size: 20px;
+}
+.column1-2{
+    width:25%;
+    float: left;
+    padding-top: 13px;
+}
+.button1{
+    cursor: pointer;
+    width: 90px;
+    height: 30px;
+    border-radius: 30px;
+    border-color: white;
+    background-color: #1e3932;
+}
+.column2{
+    width: 100%;
+    height: 80px;
+    float: left;
+    padding-left: 130px;
+}
+.text2{
+    color: #1e3932;
+}
+.column3{
+    float: left;
+    width: 100%;
+    height: 110px;
+   
+}
+.spacer{
+    width:10%;
+    float: left;
+}
+.circle1{
+    width: 15%;
+    float: left;
+}
+
+.circle1img{
+    width: 100px;
+    border-radius: 80px;
+    margin-left: 120px;
+   
+}
+
+.circle2{
+    width: 16%;
+    float: left;
+    
+}
+.circle3{
+    width: 16%;
+    float: left;
+}
+.circle4{
+    width: 16%;
+    float: left;
+}
+.circle5{
+    width: 16%;
+    float: left;
+}
+.circle5{
+    width: 16%;
+    float: left;
+}
+.column4{
+    float: left;
+    width: 100%;
+    height: 30px;
+    padding-left: 130px;
+    font-weight: bold;
+}
+.spacer{
+    width:10%;
+    float: left;
+}
+.title1{
+    float: left;
+    width: 15%;
+    padding-left: 5px;
+}
+.title2{
+    float: left;
+    width: 15%;
+    padding-left:10px;
+}
+.title3{
+    float: left;
+    width: 15%;
+    padding-left:0px;
+}
+.title4{
+    float: left;
+    width: 15%;
+    padding-left:0px;
+}
+.title5{
+    float: left;
+    width: 15%;
+    padding-left:40px;
+}
+.title6{
+    float: left;
+    width: 15%;
+    padding-left:0px;
+}
+.column5{
+    width: 100%;
+    height: 350px;
+    float: left;
+}
+.column5-1{
+    border-radius: 20px;
+    width: 84%;
+    height: 220px;
+    float:left;
+    margin-left: 8%;
+    margin-top:80px;
+    background-color:#185431;
+}
+.column5-2-1{
+    border-radius: 20px;
+    float: left;
+    width: 10%;
+    height:220px;
+}
+.coffeecup{
+    padding-top: 120px;
+    width: 80px;
+}
+.column5-2-2{
+    float: left;
+    width: 50%;
+    height: 220px;
+    color: white;
+}
+.txt{
+    font-size:14px;
+}
+.column5-2-3{
+    float: left;
+    width: 40%;
+    height: 220px ;
+    border-radius: 20px;
+}
+.button2{
+    width:150px;
+    height:40px;
+    border-radius: 40px;
+    border: none;
+    float: right;
+    margin-top: 160px;
+    margin-right: 90px;
+}
+.column6{
+    width: 100%;
+    height: 80px;
+    float: left;
+    padding-left: 130px;
+}
+.column7{
+    float: left;
+    width: 100%;
+    height: 400px;
+}
+.spacer1{
+    float: left;
+    width: 8%;
+    height: 300px;
+}
+.coffee1{
+    float: left;
+    width: 27.3%;
+    height: 300px;
+    background-color: blueviolet;
+    border-radius: 20px;
+}
+.coffe1-1{
+    float: left;
+    width: 100%;
+    height: 150px;
+}
+.coffee-img{
+    width: 100%;
+    height: 150px;
+    border-radius: 20px;
+}
+.spacer2{
+    float: left;
+    width: 1%;
+    height: 300px;
+}
+
+.column8{
+    float: left;
+    width: 100%;
+    height: 330px;
+    background-color:#edebe9;
+}
+.column8-1{
+    float: left;
+    width: 100%;
+    height: 80px;
+    padding-top: 10px;
+}
+.Barista{
+    width: 75%;
+    padding-left: 120px;
+    float: left;
+}
+.View-menu{
+    float: left;
+    width: 25%;
+    
+}
+.coffee2{
+    float: left;
+    width: 27.3%;
+    height: 180px;
+    background-color: blueviolet;
+    border-radius: 20px;
+}
+.column9{
+    width: 100%;
+    height:40px;
+    float: left;
+}
+.column10{
+    float: left;
+    width: 100%;
+    height: 500px;
+    background:#edebe9;
+}
+.column10-1{
+    padding-left: 120px;
+    float: left;
+    width: 100%;
+    height: 70px;
+}
+.column10-2{
+    border-radius: 20px;
+    margin-top: 15px;
+    width: 84%;
+    height: 360px;
+    float:left;
+    margin-left: 8%;
+    background-color:#185431;
+}
+.footer{
+    float: left;
+    width: 100%;
+    height: 400px;
+    background-color: #185431;
+}
+.footer1{
+    float: left;
+    width: 20%;
+    height: 300px;
+    
+}
+.logo2{
+    padding-top: 70px;
+    float: right;
+    padding-right: 100px;
+    width: 90px;
+}
+.footer2{
+    float: left;
+    width: 40%;
+    height: 300px;
+}
+.table1{
+    padding-top: 70px;
+    padding-left: 0;
+}
+th{
+    cursor: pointer;
+    padding-left:40px ;
+    text-align: center;
+    color: white;
+}
+td{
+    padding-left: 60px;
+    padding-top: 40px;
+    text-align: start;
+    color: white;
+    cursor: pointer;
+}
+.footer3{
+    float: left;
+    width: 20%;
+    height: 300px;
+}
+.SocialMedia1{
+    float: left;
+    width: 100%;
+    height: 70px;
+    padding-top: 40px;
+    color: white;
+}
+.insta-logo{
+    float: left;
+    width: 20%;
+    height: 190px;
+}
+.insta{
+    width: 40px;
+}
+.fb-logo{
+    float: left;
+    width: 20%;
+    height: 190px;
+}
+.twitt{
+    width: 40px;
+}
+.twitt-logo{
+    float: left;
+    width: 60%;
+    height: 300px;
+}
+
+.footer4{
+    float: left;
+    width: 20%;
+    height: 300px;
+}
+.google-logo{
+    width: 170px;
+}
+
+.footer5{
+    float: left;
+    width: 100%;
+    height: 200px;
+    background-color: #185431;
+}
+.table2{
+    padding-left: 20px;
+}
